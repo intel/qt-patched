@@ -2,7 +2,7 @@
 
 ### License
 
-<PROJECT NAME> is licensed under the terms in [LICENSE]<link to license file in repo>. By contributing to the project, you agree to the license and copyright terms therein and release your contribution under these terms.
+qt is multi-licensed under the terms in [LICENSE.FDL](qt-everywhere-src-5.15.6/LICENSE.FDL), [LICENSE.GPL-EXCEPT](qt-everywhere-src-5.15.6/LICENSE.GPL3-EXCEPT), [LICENSE.GPLv2](qt-everywhere-src-5.15.6/LICENSE.GPLv2), [LICENSE.GPLv3](qt-everywhere-src-5.15.6/LICENSE.GPLv3), [LICENSE.LGPLv21](qt-everywhere-src-5.15.6/LICENSE.LGPLv21), [LICENSE.LGPLv3](qt-everywhere-src-5.15.6/LICENSE.LGPLv3), and [LICENSE.QT-LICENSE-AGREEMENT](qt-everywhere-src-5.15.6/LICENSE.QT-LICENSE-AGREEMENT). By contributing to the project, you agree to the license and copyright terms therein and release your contribution under these terms.
 
 ### Sign your work
 
